@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hii.. I am I.B Janar Dana u can call me Danar, Basicly my background is web development, Now im learning cybersecurity.
+Hii.. I am I.B Janar Dana u can call me Danar, Basicly my background is Web Development, Now im learning CyberSecurity.
 
 Bio :
 
