@@ -8,5 +8,5 @@ Bio :
 - 🔭 I’m currently working on ...
 - 🌱 I’m learning about information technology specially cybersecurity
 - :8ball: I’m looking for opponent :octocat:
-- 📫 How to reach me: ['ibjanardana']: https://instagram.com/ibijidi
+- 📫 How to reach me: ['ibjanardana'](https://instagram.com/ibijidi)
 - ⚡ Fun fact: I'm Huge fan of Batman 
